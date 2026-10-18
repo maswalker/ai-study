@@ -26,8 +26,21 @@
 | ★ [《动手学深度学习》zh.d2l.ai](https://zh.d2l.ai) | 3 | 免费在线，PyTorch 版 |
 | [《Build a Large Language Model (From Scratch)》](https://github.com/rasbt/LLMs-from-scratch)（中文版《从零构建大模型》） | 4-6 | 从数据处理到指令微调、DPO，代码完整 |
 | [RLHF Book](https://rlhfbook.com) | 6 | 免费在线，系统讲后训练 |
-| [Mathematics for Machine Learning](https://mml-book.github.io/) | 1（查阅用） | 免费，当参考书 |
+| [Mathematics for Machine Learning](https://mml-book.github.io/) | 1（查阅用） | 免费，当参考书；中文纸质版见下方"数学书" |
 | 《Programming Massively Parallel Processors》 | 7 | CUDA 编程经典 |
+
+## 数学书（可选购买）
+
+本计划的数学主线是 3Blue1Brown 视频，**不买书也能学完**。想要纸质书时再从下面挑，只买一本的话选《深度学习的数学》。
+
+链接均为当当自营，2026-10 核对过 ISBN；价格常变，以页面为准。
+
+| 书 | 对应阶段 | 说明 | 当当链接 |
+|----|---------|------|---------|
+| 《机器学习的数学基础》（机械工业出版社，ISBN 9787111763222） | 1（查阅用） | 即《Mathematics for Machine Learning》中文版，当参考书查，不要从头读。机工社官方旗舰店通常更便宜：[链接](http://product.dangdang.com/11929200067.html) | [29824867](http://product.dangdang.com/29824867.html) |
+| 《深度学习的数学》（涌井良幸，人民邮电出版社，ISBN 9787115509345） | 1, 2 | 从导数、链式法则讲到梯度下降和反向传播，正好覆盖阶段 1 的 C2 微积分和阶段 2 | [27861118](http://product.dangdang.com/27861118.html) |
+| 《程序员的数学3：线性代数》（人民邮电出版社，ISBN 9787115417749） | 1 | 对应 C1 线性代数，偏直觉 | [23922753](http://product.dangdang.com/23922753.html) |
+| 《程序员的数学2：概率统计》（人民邮电出版社，ISBN 9787115400512） | 1 | 对应 C3 概率 | [23777411](http://product.dangdang.com/23777411.html) |
 
 ## 中文开源教程
 

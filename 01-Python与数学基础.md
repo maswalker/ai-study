@@ -120,6 +120,7 @@
 
 - 《Mathematics for Machine Learning》（[mml-book.github.io](https://mml-book.github.io/)，免费）——当参考书查，不要从头读
 - 可汗学院 线性代数 / 微积分 / 概率
+- 想要纸质书：见 [resources.md 的"数学书（可选购买）"](./resources.md#数学书可选购买)，含当当链接；只买一本的话选《深度学习的数学》
 
 ---
 
